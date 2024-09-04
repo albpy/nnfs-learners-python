@@ -5,6 +5,5 @@
 - Activations ReLU and Softmax.
 - Categorical cross entropy used for loss.
 - Vannila SGD_optimizer used for backpropagation.
-
-- - Tested on [Physical activity prediction Dataset](https://www.kaggle.com/datasets/diegosilvadefrana/fisical-activity-dataset)
+- Tested on [Physical activity prediction Dataset](https://www.kaggle.com/datasets/diegosilvadefrana/fisical-activity-dataset)
 
